@@ -1,0 +1,5 @@
+ekolayzer: http://rbt.ist/ekolayzer
+Cpu: https://github.com/mertfozzy/Cpu-Gpu-Meter
+Alkış Lamba: https://github.com/mertfozzy/Alkisla-Yanan-Lamba
+öRÜMCEK: https://akademi.robotistan.com/?s=%C3%B6r%C3%BCmcek
+RDİD: https://github.com/Robotistan/YouTube-DIY-Projeler/tree/master/Arduino%20Dersleri/Ders-21%20RFID%20Kart%20Okuyucu
